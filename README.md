@@ -8,4 +8,5 @@ It also governs invalid dates and works with data entry in the format: Day \ Mon
 Example:
 Calculates the number of minutes lived by a person.
 
-Autor: Kévi pegoraro, 2020
+
+Author: Kévi Pegoraro, 2020, e-mail: kevipegoraro@hotmail.com
